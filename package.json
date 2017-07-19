@@ -4,6 +4,7 @@
   "description": "A sandbox project to do some collaborative coding.",
   "main": "farm.js",
   "dependencies": {
+    "bird-foo": "^1.0.0",
     "cow-foo": "^1.0.0"
   },
   "devDependencies": {},
