@@ -1,0 +1,27 @@
+{
+  "name": "farm-foo",
+  "version": "0.0.0",
+  "description": "A sandbox project to do some collaborative coding.",
+  "main": "farm.js",
+  "dependencies": {
+    "cow-foo": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yola/farm-foo.git"
+  },
+  "author": "Yola Engineering <engineers@yola.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yola/farm-foo/issues"
+  },
+  "homepage": "https://github.com/yola/farm-foo#readme",
+  "jshintConfig": {
+    "esversion": 6,
+    "node": true
+  }
+}
